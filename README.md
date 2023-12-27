@@ -42,8 +42,6 @@ W,A,S,D - 플레이어 이동
 
 # [게임화면]
 
-![StartMenu](https://github.com/bubbletok/PhotoForge/assets/62411634/a323147f-728b-4ffe-836a-380b5f2a1099)
-
-![Stages](https://github.com/bubbletok/PhotoForge/assets/62411634/44e914a5-20b0-4c5b-9685-37899b26ad30)
-
-![Stage_2](https://github.com/bubbletok/PhotoForge/assets/62411634/bdba1623-84e3-4d1b-a5ae-61cbc0e3808d)
+![Title](https://github.com/bubbletok/PhotoForge_Release/assets/62411634/0cfc5928-eb43-4e1f-9a91-901f45389c7c)
+![Stages](https://github.com/bubbletok/PhotoForge_Release/assets/62411634/5cbab314-7d00-43d0-bd7d-5d605a1b9a23)
+![Stage2](https://github.com/bubbletok/PhotoForge_Release/assets/62411634/2cb25e26-b4cb-42b7-ba0a-60f08d7c9fe5)
